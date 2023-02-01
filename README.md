@@ -1,6 +1,5 @@
 # Water-Quality-Detection
+Firstly, instal the necessary packages.
+Then, you have to run the TestWaterDetector.py file.
 
-You have to run the TestWaterDetector.py file.
-
-
-The project is still under development :)
+This project is still under development :)
