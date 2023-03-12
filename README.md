@@ -1,8 +1,4 @@
 # Water-Quality-Detection
-Firstly, install the necessary packages.
+Install the necessary packages.
 Then, you have to run the TestWaterDetector.py file.
-
-This project is still under development :)
-
-
-Tech stack used: Image processing, Python.
+Algorithm used: KNN
